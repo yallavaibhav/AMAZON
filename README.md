@@ -9,3 +9,7 @@ Amazon clone:
     b. Add products image
     c. Render products
     d. Style products
+6. Routing
+    a. npm i react-router-dom
+    b. create route for home screen
+    c. create route for product screen

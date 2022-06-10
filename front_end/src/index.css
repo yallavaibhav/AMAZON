@@ -12,8 +12,28 @@ header {
   padding: 1rem;
 }
 
-header a{
+header a {
   color: #ffffff;
   font-weight: bold;
   text-decoration: none;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+main {
+  padding: 1rem;
+}
+.Productinfo {
+  padding: 1rem;
+}
+.product {
+  border: 1px #404040 solid;
+  margin: 1rem;
+}
+.product img {
+  width: 100%;
+  max-width: 400px;
 }

@@ -19,7 +19,6 @@ Amazon clone:
    3. create route for product screen
 
 7. Create Node.JS Server
-
    1. run npm init in root folder
    2. Update package.json set type: modeule
    3. Add .js to import
@@ -39,3 +38,9 @@ Amazon clone:
    3. use state hook
    4. use effect hook
    5. use reducer hook
+
+9. Manage state by Reducer Hook
+   1. Define reducer
+   2. Update Fetch data
+   3. Get state from usReducer
+   

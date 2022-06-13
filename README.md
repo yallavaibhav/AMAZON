@@ -44,3 +44,6 @@ Amazon clone:
    2. Update Fetch data
    3. Get state from usReducer
    
+10. Add bootstrap UI
+   1. npm install react-bootstarp bootstrap
+   2. update App.js

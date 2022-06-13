@@ -1,8 +1,7 @@
 import { useEffect, useReducer, useState } from 'react';
+import { Link } from 'react-router-dom';
 import axios from 'axios';
 import logger from 'use-reducer-logger';
-import { Link } from 'react-router-dom';
-// import data from '../data';
 
 const reducer = (state, action) => {
   switch (action.type) {
@@ -24,6 +23,7 @@ function HomeScreen() {
     error: '',
   });
   // const [products, setProducts] = useState([]);
+
   useEffect(() => {
     const fetchData = async () => {
       dispatch({ type: 'FETCH_REQUEST' });

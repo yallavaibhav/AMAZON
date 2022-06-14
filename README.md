@@ -47,3 +47,9 @@ Amazon clone:
 10. Add bootstrap UI
    1. npm install react-bootstarp bootstrap
    2. update App.js
+
+11. Create Product and Rating components
+   1. Create rating component
+   2. Create product component
+   3. Use rating component in product component
+   

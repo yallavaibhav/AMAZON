@@ -53,3 +53,6 @@ Amazon clone:
    2. Create product component
    3. Use rating component in product component
    
+12. Create Product Details Screen
+   1. Fetch Product from backend
+   2. Create 3 columns for image, info and action

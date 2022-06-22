@@ -19,6 +19,7 @@ Amazon clone:
    3. create route for product screen
 
 7. Create Node.JS Server
+
    1. run npm init in root folder
    2. Update package.json set type: modeule
    3. Add .js to import
@@ -33,6 +34,7 @@ Amazon clone:
    12. run npm start
 
 8. Fetch Products from Backend
+
    1. set proxy in package.json
    2. npm install axios
    3. use state hook
@@ -43,16 +45,21 @@ Amazon clone:
    1. Define reducer
    2. Update Fetch data
    3. Get state from usReducer
-   
 10. Add bootstrap UI
-   1. npm install react-bootstarp bootstrap
-   2. update App.js
+11. npm install react-bootstarp bootstrap
+12. update App.js
 
-11. Create Product and Rating components
-   1. Create rating component
-   2. Create product component
-   3. Use rating component in product component
-   
-12. Create Product Details Screen
-   1. Fetch Product from backend
-   2. Create 3 columns for image, info and action
+13. Create Product and Rating components
+14. Create rating component
+15. Create product component
+16. Use rating component in product component
+
+17. Create Product Details Screen
+18. Fetch Product from backend
+19. Create 3 columns for image, info and action
+
+20. Create Loading and Message Component
+21. Create loading component
+22. Use Spinner component
+23. Create message component
+24. cretate utils.js to define getError function
